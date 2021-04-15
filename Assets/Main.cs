@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Diagnostics;
+using UnityEditor;
 
 public class Main : MonoBehaviour
 {
@@ -8,7 +10,7 @@ public class Main : MonoBehaviour
     
     void Start()
     {
-        // aici vom scrie cod  
+       //fml fml fml
     }
 
     // Update is called once per frame
