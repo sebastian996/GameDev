@@ -9,6 +9,7 @@ public class Main : MonoBehaviour
     void Start()
     {
         // aici vom scrie cod  
+        //sau nu
     }
 
     // Update is called once per frame
